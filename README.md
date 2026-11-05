@@ -2,7 +2,7 @@
 成分判定アプリ（Prototype）
 食品のバーコードをカメラで読み取り、原材料から簡易的な健康スコア（100点満点）を表示するWebアプリです。
 
-デモ： https://＿＿＿＿＿＿.streamlit.app
+デモ：https://barcodeapp-szcpdvjfw8do6baajicrd5.streamlit.app
 
 主な機能
 スマホやPCのカメラでバーコード（JANコード）を読み取る
